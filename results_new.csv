@@ -1,0 +1,25 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1618573055855,1367,HTTP Request,200,OK,Soap Request 1-1,text,true,,586,433,1,11,http://www.dneonline.com/calculator.asmx,1366,0,1084
+1618573057967,266,HTTP Request,200,OK,Soap Request 1-1,text,true,,597,442,1,11,http://www.dneonline.com/calculator.asmx,266,0,0
+1618573058267,263,HTTP Request,200,OK,Soap Request 1-1,text,true,,606,448,1,11,http://www.dneonline.com/calculator.asmx,263,0,0
+1618573058534,267,HTTP Request,200,OK,Soap Request 1-1,text,true,,605,447,1,11,http://www.dneonline.com/calculator.asmx,267,0,0
+1618573055855,3930,HTTP Request,200,OK,Thread Group 2 2-1,text,true,,387,361,10,10,https://petstore.swagger.io/v2/user,3930,0,3695
+1618573056112,3685,HTTP Request,200,OK,Thread Group 2 2-6,text,true,,387,361,10,10,https://petstore.swagger.io/v2/user,3685,0,3446
+1618573055926,3859,HTTP Request,200,OK,Thread Group 2 2-4,text,true,,387,360,10,10,https://petstore.swagger.io/v2/user,3858,0,3622
+1618573055855,3948,HTTP Request,200,OK,Thread Group 2 2-3,text,true,,387,360,10,10,https://petstore.swagger.io/v2/user,3948,0,3708
+1618573056525,3260,HTTP Request,200,OK,Thread Group 2 2-10,text,true,,387,361,10,10,https://petstore.swagger.io/v2/user,3258,0,3022
+1618573056010,3778,HTTP Request,200,OK,Thread Group 2 2-5,text,true,,387,362,10,10,https://petstore.swagger.io/v2/user,3778,0,3546
+1618573055857,3971,HTTP Request,200,OK,Thread Group 2 2-2,text,true,,387,360,10,10,https://petstore.swagger.io/v2/user,3970,0,3713
+1618573056378,3429,HTTP Request,200,OK,Thread Group 2 2-9,text,true,,387,360,10,10,https://petstore.swagger.io/v2/user,3429,0,3188
+1618573056167,3641,HTTP Request,200,OK,Thread Group 2 2-7,text,true,,387,362,10,10,https://petstore.swagger.io/v2/user,3641,0,3394
+1618573056325,3459,HTTP Request,200,OK,Thread Group 2 2-8,text,true,,387,360,10,10,https://petstore.swagger.io/v2/user,3458,0,3222
+1618573059856,232,HTTP Request,200,OK,Thread Group 2 2-1,text,true,,482,197,10,10,https://petstore.swagger.io/v2/user/login?username=tanya&password=456,232,0,0
+1618573059859,238,HTTP Request,200,OK,Thread Group 2 2-8,text,true,,482,196,9,9,https://petstore.swagger.io/v2/user/login?username=rita&password=444,237,0,0
+1618573059856,241,HTTP Request,200,OK,Thread Group 2 2-9,text,true,,482,196,9,9,https://petstore.swagger.io/v2/user/login?username=mita&password=666,241,0,0
+1618573059864,234,HTTP Request,200,OK,Thread Group 2 2-10,text,true,,482,197,9,9,https://petstore.swagger.io/v2/user/login?username=tanya&password=456,233,0,0
+1618573059866,236,HTTP Request,200,OK,Thread Group 2 2-6,text,true,,482,197,7,7,https://petstore.swagger.io/v2/user/login?username=manya&password=789,236,0,0
+1618573059859,243,HTTP Request,200,OK,Thread Group 2 2-7,text,true,,482,198,7,7,https://petstore.swagger.io/v2/user/login?username=ananya&password=222,243,0,0
+1618573059866,239,HTTP Request,200,OK,Thread Group 2 2-5,text,true,,482,198,6,6,https://petstore.swagger.io/v2/user/login?username=dhanya&password=123,239,0,0
+1618573059864,242,HTTP Request,200,OK,Thread Group 2 2-3,text,true,,482,196,6,6,https://petstore.swagger.io/v2/user/login?username=sita&password=333,241,0,0
+1618573059865,234,HTTP Request,200,OK,Thread Group 2 2-4,text,true,,482,196,9,9,https://petstore.swagger.io/v2/user/login?username=gita&password=555,233,0,0
+1618573059862,255,HTTP Request,200,OK,Thread Group 2 2-2,text,true,,482,196,1,1,https://petstore.swagger.io/v2/user/login?username=anya&password=111,254,0,0
